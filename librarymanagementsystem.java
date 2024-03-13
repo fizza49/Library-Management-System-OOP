@@ -1,4 +1,3 @@
-//all the API's imported 
 import java.io.*;
 import java.util.Scanner;
 import java.util.ArrayList;
