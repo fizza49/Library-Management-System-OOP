@@ -141,7 +141,6 @@ class Library implements Serializable{
                 return book;
             }
         }
-        //otherwise returns nothing
         return null;
     }
 
