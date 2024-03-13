@@ -14,19 +14,15 @@ The Library Management System is a console-based application implemented in Java
 ### Setup and Run
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/library-management-system.git
    
 2. Navigate to the project directory:
-   ```bash
 cd library-management-system
 
 4. Compile the Java code:
-   ```bash
 javac librarymanagementsystem.java
 
 4.Run the compiled code:
-   ```bash
 java librarymanagementsystem
 
 ## Key Features
