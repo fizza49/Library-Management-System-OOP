@@ -51,3 +51,6 @@ Display all the books in the library with the status Available or Not Available.
 ## File Handling
 
 Save and load the library state using serialization. The library data is stored in library.dat.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
